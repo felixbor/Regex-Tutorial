@@ -1,11 +1,11 @@
-# Regex Tutorial for email matching and more...
-
-
-https://gist.github.com/felixbor/f5171ff9eea91cd34e73a83aa870970c
-## Summary
+#  Regex Tutorial for email matching and more...
 Regex (short for "regular expression") is a sequence of characters that define a search pattern. It is a powerful tool used for text processing and search operations.
 Regex is used in many programming languages and applications to match, search, and manipulate text based on a specific pattern. It allows you to search for patterns in a string of text, extract specific information from a text file, or validate input from a user.
-In this tutorial, we will be covering main components of regular expression using email matching as a example. Moreover, some extra examples will be given and explained. 
+
+
+## Summary
+
+In this tutorial, we will be covering main components of regular expression using email matching as an example. Moreover, some extra examples will be given and explained. 
 
 ## Table of Contents
 
@@ -92,6 +92,8 @@ Please see examples of character classes
  [\da-z] any number, lowercase letter
 
  [a-z] Matches any lowercase letter from a to z.
+
+
 
 ### Flags
 
@@ -185,4 +187,10 @@ Positive Look-behind  (?<=ABC) matches a group before the main expression withou
 
 Negative Look-behind  (?<!ABC) Specifies a group that can not match before the main expression (if it matches, the result is discarded).
 
-## Author
+## Author 
+This tutrial was created by Feliks Borshchevskyi,  a Fullstack Web Development Bootcamp student.
+Need to contact me. Here's my
+
+[email](felixbor@gmail.com)
+
+[github](https://github.com/felixbor)
